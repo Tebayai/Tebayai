@@ -27,3 +27,6 @@ Voici les principaux langages et outils que j'utilise dans mes projets :
 ## Contact
 
 Si vous avez des questions ou souhaitez discuter de design web, vous pouvez me contacter à yvannerick@gmail.com.
+
+## Message de Fin
+Merci de visiter mon dépôt et de suivre mon parcours d'apprentissage en design web. Chaque projet est une étape de plus vers l'amélioration de mes compétences, et j'apprécie tout retour ou contribution que vous pourriez apporter. N'hésitez pas à explorer, utiliser et adapter les projets à vos propres besoins. Bon coding et bon design !
