@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Web
+- 🌱 I’m currently learning Adobe
 - 💬 Ask me about anything about to web and graphics.
 - 📫 How to reach me: by Discord tebayai or email : yvannerick@gmail.com.
 - 😄 Pronouns: He.
