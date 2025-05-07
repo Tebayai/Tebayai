@@ -17,12 +17,12 @@ Voici les principaux langages et outils que j'utilise dans mes projets :
 
 - **Adobe Photoshop**
 - **Adobe Illustrator**
-- **Adobe XD**
+- **Adobe Indesign**
+- **Adobe XD / Figma**
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **PHP**
-- **SQL**
+- **React**
 
 ## Contact
 
