@@ -1,32 +1,33 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Web
-- 🌱 I’m currently learning Adobe
+- 💻 I’m currently working on Web
+- 🚀 Focused on building scalable, clean and efficient web applications.
 - 💬 Ask me about anything about to web and graphics.
 - 📫 How to reach me: by Discord tebayai or email : yvannerick@gmail.com.
-- 😄 Pronouns: He.
-
 
 ## À propos
 
-Ce dépôt est dédié à mon parcours d'apprentissage en design web. Vous y trouverez des projets variés allant de la conception d'interfaces utilisateur (UI) à des exercices de codage HTML et CSS. Mon objectif est d'améliorer mes compétences et de partager mes progrès avec la communauté.
+This repository presents my background and projects in web development.
+It reflects my technical evolution, my approach to code, and my goal: to design high-performing, maintainable, and user-centric applications.
 
 ## Langages et Outils
 
-Voici les principaux langages et outils que j'utilise dans mes projets :
+Here are the main languages ​​and tools I use in my projects:
 
-- **Adobe Photoshop**
-- **Adobe Illustrator**
-- **Adobe Indesign**
-- **Adobe XD / Figma**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
+💻 Web development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,twig,react,mysql" /> </p>
 
-## Contact
+🎨 Design & UI
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 
-Si vous avez des questions ou souhaitez discuter de design web, vous pouvez me contacter à yvannerick@gmail.com.
+🧰 Adobe Suite
+- Photoshop
+- Illustrator
+- InDesign
 
 ## Message de Fin
-Merci de visiter mon dépôt et de suivre mon parcours d'apprentissage en design web. Chaque projet est une étape de plus vers l'amélioration de mes compétences, et j'apprécie tout retour ou contribution que vous pourriez apporter. N'hésitez pas à explorer, utiliser et adapter les projets à vos propres besoins. Bon coding et bon design !
+
+
+Thank you for taking the time to browse this repository.
+Each project represents a step in my development as a web developer.
+This repository is designed as a space for experimentation, learning, and technical structuring.
