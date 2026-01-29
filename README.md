@@ -15,7 +15,7 @@ It reflects my technical evolution, my approach to code, and my goal: to design 
 Here are the main languages ​​and tools I use in my projects:
 
 💻 Web development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,twig,react,mysql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,mysql" /> </p>
 
 🎨 Design & UI
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
