@@ -5,12 +5,12 @@
 - 💬 Ask me about anything about to web and graphics.
 - 📫 How to reach me: by Discord tebayai or email : yvannerick@gmail.com.
 
-## À propos
+## About
 
 This repository presents my background and projects in web development.
 It reflects my technical evolution, my approach to code, and my goal: to design high-performing, maintainable, and user-centric applications.
 
-## Langages et Outils
+## Languages ​​and Tools
 
 Here are the main languages ​​and tools I use in my projects:
 
@@ -25,7 +25,7 @@ Here are the main languages ​​and tools I use in my projects:
 - Illustrator
 - InDesign
 
-## Message de Fin
+## Ending Message
 
 
 Thank you for taking the time to browse this repository.
