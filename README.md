@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there !
 
 - 💻 I’m currently working on Web
 - 🚀 Focused on building scalable, clean and efficient web applications.
@@ -26,7 +26,6 @@ Here are the main languages ​​and tools I use in my projects:
 - InDesign
 
 ## Ending Message
-
 
 Thank you for taking the time to browse this repository.
 Each project represents a step in my development as a web developer.
