@@ -4,6 +4,7 @@
 - 🚀 Focused on building scalable, clean and efficient web applications.
 - 💬 Ask me about anything about to web and graphics.
 - 📫 Email : yvannerick.pro@gmail.com.
+- 
 
 ## About
 
@@ -21,9 +22,11 @@ Here are the main languages ​​and tools I use in my projects:
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 
 🧰 Adobe Suite
-- Photoshop
-- Illustrator
-- InDesign
+<p align="left">
+  <img src="https://cdn.simpleicons.org/adobephotoshop" width="40" alt="Photoshop" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator" width="40" alt="Illustrator" />
+  <img src="https://cdn.simpleicons.org/adobeindesign" width="40" alt="InDesign" />
+</p>
 
 ## Ending Message
 
