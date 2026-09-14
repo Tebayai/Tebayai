@@ -22,11 +22,9 @@ Here are the main languages ​​and tools I use in my projects:
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 
 🧰 Adobe Suite
-<p align="left">
-  <img src="https://cdn.simpleicons.org/adobephotoshop" width="40" alt="Photoshop" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator" width="40" alt="Illustrator" />
-  <img src="https://cdn.simpleicons.org/adobeindesign" width="40" alt="InDesign" />
-</p>
+- Photoshop
+- Illustrator
+- InDesign
 
 ## Ending Message
 
