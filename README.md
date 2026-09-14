@@ -3,7 +3,7 @@
 - 💻 I’m currently working on Web
 - 🚀 Focused on building scalable, clean and efficient web applications.
 - 💬 Ask me about anything about to web and graphics.
-- 📫 How to reach me: by email : yvannerick.pro@gmail.com.
+- 📫 Email : yvannerick.pro@gmail.com.
 
 ## About
 
